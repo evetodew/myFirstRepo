@@ -1,3 +1,3 @@
 # The App
 
-Part of the CodeCloudFleet challenge. Combined repo for all htmls.
+Part of the CodeCloudFleet challenge. Combined repo for all files.
